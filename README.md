@@ -227,7 +227,8 @@ classDiagram
         +area() float
         +is_right_angled() bool
     }
-    сlass Logger {
+    
+    class Logger {
         +log(message: str)
     }
 
